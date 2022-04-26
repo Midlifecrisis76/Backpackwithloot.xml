@@ -1,6 +1,6 @@
-<type name="DryBag_Yellow">
+<type name="MountainBag_Red">
 		    <cargo chance="1">
-            <item name="HuntingKnife" />
+            <item name="Flag_APA" />
         </cargo>
         <cargo chance="1">
             <item name="BandageDressing" />
