@@ -3,7 +3,7 @@
             <item name="Flag_APA" />
         </cargo>
         <cargo chance="1">
-            <item name="BandageDressing" />
+            <item name="CanOpener" />
         </cargo>
         <cargo chance="1">
             <item name="Canteen" />
@@ -12,18 +12,24 @@
             <item name="Rice" />
         </cargo>
         <cargo chance="1">
-            <item name="TetracyclineAntibiotics" />
+            <item name="BalaclavaMask_Blackskull" />
         </cargo>
         <cargo chance="1">
-            <item name="VitaminBottle" />
+            <item name="PeachesCan" />
         </cargo>
         <cargo chance="1">
             <item name="MilitaryBelt" />
         </cargo>
         <cargo chance="1">
-            <item name="NylonKnifeSheath" />
+            <item name="PorkCan" />
         </cargo>
         <cargo chance="1">
-            <item name="BloodTestKit" />
+            <item name="TacticalBaconCan" />
+        </cargo>
+	<cargo chance="1">
+            <item name="SodaCan_Pipsi" />
+        </cargo>
+	<cargo chance="1">
+            <item name="SpaghettiCan" />
         </cargo>
     </type>
